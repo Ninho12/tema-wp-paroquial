@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+/*
+Theme Name: Tema WP Paroquial
+Theme URI: https://www.google.com/
+Author: João Paulo Sena Padilha
+Author URI: https://www.google.com/
+Description: Esse tema é para todas as paroquias do nosso Brasil e se fizer sucesso também será
+para as paroquias do mundo, quero com esse tema contribuir para o avanço na evangelização atravez
+da Internet. (Assinado: João Paulo Sena Padilha).
+Requires at least: 5.3
+Tested up to: 6.0
+Requires PHP: 5.6
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: maranathatechttm
+Tags: espiritualidade, fe, esperanca, amor, devocao, paroquia, catolicismo, santidade
+
+Maranatha Tech TTM, (C) 2020 maranathatechttm.com
+WP Paroquial is distributed under the terms of the GNU GPL.
+*/
+
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
