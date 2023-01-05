@@ -21,10 +21,24 @@ Maranatha Tech TTM, (C) 2020 maranathatechttm.com
 WP Paroquial is distributed under the terms of the GNU GPL.
 */
 
-
 *{
-	margin: 0px;
-	padding: 0px;
+	padding:0px;
+	margin:0px;
 }
 
+body{
+	background-color:#faa;
+}
 
+footer{
+	position: absolute;
+	bottom: 0px;
+	width:100%;
+	height:100px;
+	padding:20px;
+	background-color:#000;
+	display: flex;
+	justify-content: center;
+	flex-direction:column;
+	color: white;
+}
